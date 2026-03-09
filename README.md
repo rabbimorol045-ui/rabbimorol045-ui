@@ -47,19 +47,17 @@
 ## 🏆 GitHub Trophy
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rabbimorol045-ui&theme=tokyonight&no-frame=true&row=1&column=7"/>
-</p>
+<img src="https://img.shields.io/github/followers/rabbimorol045-ui?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/stars/rabbimorol045-ui?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/github/repo-size/rabbimorol045-ui?style=for-the-badge" />
+</p>>
 
 ---
-
 ## 🐍 Contribution Snake
 
-> Snake workflow run হলে এইখানে দেখাবে  
-
-![snake animation](https://github.com/rabbimorol045-ui/rabbimorol045-ui/blob/output/github-contribution-grid-snake.svg)
-
----
-
+<p align="center">
+  <img src="https://github.com/rabbimorol045-ui/rabbimorol045-ui/raw/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+</p>
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
 </p>
